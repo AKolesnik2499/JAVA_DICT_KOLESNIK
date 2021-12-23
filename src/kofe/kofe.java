@@ -1,4 +1,5 @@
-package coffe;
+package kofe;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -8,8 +9,8 @@ import java.util.ArrayList;
 import java.util.Map;
 import java.util.HashMap;
 
-public class coffe {
-    private static List<Drink> coffeList = new ArrayList<Drink>();
+public class kofe {
+    private static List<Drink> drinkList = new ArrayList<Drink>();
     private static List<Ingredient> ingredientList = new ArrayList<Ingredient>();
 
     public static void main(String[] args) {
